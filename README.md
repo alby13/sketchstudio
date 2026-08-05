@@ -13,7 +13,7 @@ Free for personal and non-commercial use only.
 
 ---
 
-<img src="https://github.com/alby13/sketchstudio/blob/main/screenshot_video.jpg?raw=true">
+[<img src="https://github.com/alby13/sketchstudio/blob/main/screenshot_video.jpg?raw=true">](https://www.youtube.com/watch?v=q6J8GASMeuU)
 
 <p align="center">Watch The YouTube Overview: https://www.youtube.com/watch?v=q6J8GASMeuU</p>
 
