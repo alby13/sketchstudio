@@ -31,8 +31,8 @@ Free for personal and non-commercial use only.
 **Requirements:** [Node.js](https://nodejs.org/) 18+ (recommended: current LTS)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sketch-studio.git
-cd sketch-studio
+git clone https://github.com/alby13/sketchstudio.git
+cd sketchstudio
 npm install
 npm run dev
 ```
@@ -155,7 +155,7 @@ This project is licensed under the **[PolyForm Noncommercial License 1.0.0](LICE
 
 Full legal terms: see [`LICENSE`](LICENSE) or [polyformproject.org/licenses/noncommercial/1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0).
 
-If you need a commercial license, contact the copyright holder (repository owner).
+If you need a commercial license, contact the copyright holder alby13.
 
 ---
 
