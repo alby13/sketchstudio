@@ -9,7 +9,17 @@ Build scenes by dragging assets onto a stage, time them on a timeline, and play 
 
 Free for personal and non-commercial use only.
 
+<br>
+
 ---
+
+<img src="https://github.com/alby13/sketchstudio/blob/main/screenshot_video.jpg?raw=true">
+
+<p align="center">Watch The YouTube Overview: https://www.youtube.com/watch?v=q6J8GASMeuU</p>
+
+---
+
+<br>
 
 ## Features
 
